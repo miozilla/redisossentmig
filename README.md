@@ -13,6 +13,7 @@ redisossentmig : OSS to Redis Enterprise Migration | Scaling Microservices Apps,
 - Migrate shopping cart data from OSS Redis to Redis Enterprise using RIOT ( Redis Input and Output Tool)
 - Roll back to the OSS Redis to back shopping cart content
 - Patch the "Cart" deployment to point to the Redis Enterprise Database again for production
+- GKE similar skill sets/services/technologies : EKS, AKS, Kubernetes, k3s, OpenShift, Rancher, MicroK8s, Nomad, Docker Swarm
 
 
 ## Scaling Microservices Applications: Migration to Redis Enterprise on Google Cloud 
